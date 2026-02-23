@@ -1,0 +1,555 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="29.5.2">
+  <diagram name="Page-1" id="txWq8I3UPHlTqtug8iO-">
+    <mxGraphModel dx="2328" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="300" x="170" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="300" x="670" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Phone view" vertex="1">
+          <mxGeometry height="30" width="80" x="270" y="-910" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Phone view" vertex="1">
+          <mxGeometry height="30" width="80" x="775" y="-910" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-7" edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="471" y="-760" as="sourcePoint" />
+            <mxPoint x="171" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="PLAN MY JOURNEY" vertex="1">
+          <mxGeometry height="30" width="140" x="170" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="BOOK A TAXI TO AIRPORT" vertex="1">
+          <mxGeometry height="70" width="150" x="280" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="969" y="-760" as="sourcePoint" />
+            <mxPoint x="670" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;i&gt;PRIORITY PASS INTERFACE&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="730" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;i&gt;PRIORITY PASS INTERFACE&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="225" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="469" y="-790" as="sourcePoint" />
+            <mxPoint x="170" y="-790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="BOOK A TAXI" vertex="1">
+          <mxGeometry height="30" width="140" x="660" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="969" y="-791" as="sourcePoint" />
+            <mxPoint x="670" y="-791" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-17" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Taxi Option 1 -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Car model X -&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Estimated pick up time Z,&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;estimated arrival time Y&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fare cost&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Recommended based on flight departure details)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="690" y="-700" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-18" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Taxi Option 2 -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Car model X -&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Estimated pick up time Z,&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;estimated arrival time Y&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="690" y="-584" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="BOOK" vertex="1">
+          <mxGeometry height="40" width="50" x="890" y="-720" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="BOOK" vertex="1">
+          <mxGeometry height="40" width="50" x="890" y="-604" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-23" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;u&gt;C4 Context Diagram (Level 1)&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="295" y="-290" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Traveler" c4Type="Person" c4Description="End-user of PriorityPass planning an airport journey " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-24">
+          <mxCell parent="1" style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1">
+            <mxGeometry height="180" width="200" x="430" y="-210" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="Book a tax" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-26">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="530" y="-30" as="sourcePoint" />
+              <mxPoint x="529.5" y="70" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Priority Pass" c4Type="Software System" c4Description="PriorityPass software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-27">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="410" y="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Taxi App" c4Type="Software System" c4Description="External Taxi app software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-28">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="800" y="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="e.g. JSON/HTTP" c4Description="e.g. Makes API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-29">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=-0.008;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;">
+            <mxGeometry relative="1" width="240" x="-0.0546" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="740" y="160" />
+                <mxPoint x="740" y="160" />
+              </Array>
+              <mxPoint x="650" y="160.04" as="sourcePoint" />
+              <mxPoint x="798.0799999999999" y="160.00000000000003" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="Makes payment" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-30">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;entryX=0.017;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;" target="-XOfx5GuRP7PAOSQfDa3-28">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="530" y="-30" as="sourcePoint" />
+              <mxPoint x="900" y="70" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="300" x="1160" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-32" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Phone view" vertex="1">
+          <mxGeometry height="30" width="80" x="1265" y="-910" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1459" y="-760" as="sourcePoint" />
+            <mxPoint x="1160" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-34" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;i&gt;PRIORITY PASS INTERFACE&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;TAXI-HOSTED CHECKOUT&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="1217.5" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="BOOK A TAXI" vertex="1">
+          <mxGeometry height="30" width="140" x="1150" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1459" y="-791" as="sourcePoint" />
+            <mxPoint x="1160" y="-791" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-37" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;Route map&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="1222.5" y="-720" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="165" x="1222.5" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="MAKE PAYMENT" vertex="1">
+          <mxGeometry height="40" width="140" x="1235" y="-584" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Relationship" c4Technology="e.g. JSON/HTTP" c4Description="e.g. Makes API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-47">
+          <mxCell edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-28" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.996;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" target="-XOfx5GuRP7PAOSQfDa3-27">
+            <mxGeometry relative="1" width="240" x="-0.0578" y="1" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="740" y="170" as="sourcePoint" />
+              <mxPoint x="888" y="170" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-48" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;u&gt;C4 Container Diagram (Level 2)&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="290" y="270" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Traveler" c4Type="Person" c4Description="End-user of PriorityPass planning an airport journey " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-49">
+          <mxCell parent="1" style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1">
+            <mxGeometry height="180" width="200" x="350" y="440" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="PriorityPass Mobile App" c4Type="Container" c4Technology="JavaScript/React" c4Description="Parts of the system that run on user device - Allows users to book lounges and taxi, provides flight details and recommended departure time." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-52">
+          <mxCell parent="1" style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1">
+            <mxGeometry height="160" width="240" x="360" y="720" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Data Store" c4Type="Container" c4Technology="Database, Amazon S3" c4Description="Stores user profiles, flight data, and booking status" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-54">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1">
+            <mxGeometry height="120" width="240" x="380" y="1340" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="API logic (server side)" c4Type="Container" c4Technology="Go/TypeScript" c4Description="These represent the logic and processing power that live in the cloud/servers. Manages booking workflow, handles flight details, arrival estimates, and business logic&#xa;API Apps/AWS function calls" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-55">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="360" y="950" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Priority Pass" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-57">
+          <mxCell parent="1" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="790" width="960" x="60" y="690" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="Interacts with mobile app" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-59">
+          <mxCell edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-49" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.542;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="410" y="620" as="sourcePoint" />
+              <mxPoint x="450.0799999999999" y="722.0799999999999" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="JSON/HTTPS" c4Description="Makes API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-60">
+          <mxCell edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-52" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.418;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" target="-XOfx5GuRP7PAOSQfDa3-55">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <Array as="points">
+                <mxPoint x="460" y="940" />
+                <mxPoint x="460" y="940" />
+              </Array>
+              <mxPoint x="520" y="880" as="sourcePoint" />
+              <mxPoint x="460" y="950" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Taxi Integration Service" c4Type="Container" c4Technology="Python" c4Description="API to manage communication with Taxi app " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-63">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="670" y="1110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/OAuth2" c4Description="Authenticates and requests access tokens" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-65">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="360" y="1050" as="sourcePoint" />
+              <mxPoint x="230" y="1137" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Reads and writes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-67">
+          <mxCell edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-63" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <Array as="points">
+                <mxPoint x="810" y="1390" />
+              </Array>
+              <mxPoint x="520" y="1260" as="sourcePoint" />
+              <mxPoint x="620" y="1390" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Taxi API logic" c4Type="External API Container" c4Technology="Go/TypeScript" c4Description="Provides taxi availability, ETAs, and booking endpoints" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="-XOfx5GuRP7PAOSQfDa3-70">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="1070" y="1110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-72" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;i&gt;TAXI-HOSTED&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;CHECKOUT&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="1222.5" y="-670" as="geometry" />
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-75" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="-640" as="sourcePoint" />
+            <mxPoint x="620" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XOfx5GuRP7PAOSQfDa3-76" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1020" y="-640" as="sourcePoint" />
+            <mxPoint x="1110" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Payment Service" c4Type="Container" c4Technology="Python" c4Description="handles secure transaction with PCI compliance. Stores token and transaction ID" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-2">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="660" y="810" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Reads and writes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-4">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="-XOfx5GuRP7PAOSQfDa3-54">
+            <mxGeometry relative="1" width="240" x="0.6304" y="-2" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="470" y="1070" />
+              </Array>
+              <mxPoint x="470" y="1070" as="sourcePoint" />
+              <mxPoint x="472" y="1340" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="gRPC/Internal" c4Description="Requests payment" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-6">
+          <mxCell edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-63" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.46;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" target="RBGYNgSVY035MO933coG-2">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="870" y="1120" as="sourcePoint" />
+              <mxPoint x="750" y="1100" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/OAuth2" c4Description="Makes API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-7">
+          <mxCell edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-63" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-XOfx5GuRP7PAOSQfDa3-70">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="990" y="1180" as="sourcePoint" />
+              <mxPoint x="750" y="1100" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/OAuth2" c4Description="Passes authentication token" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-8">
+          <mxCell edge="1" parent="1" source="-XOfx5GuRP7PAOSQfDa3-55" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.645;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" target="-XOfx5GuRP7PAOSQfDa3-63">
+            <mxGeometry relative="1" width="240" y="30" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="700.0000000000002" y="1200" as="sourcePoint" />
+              <mxPoint x="750" y="1100" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="External Stripe API logic" c4Type="External API Container" c4Technology="Java SDK" c4Description="Processes credit cards securely without exposing card details" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-11">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="1070" y="810" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/TLS" c4Description="Completes transactions" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-13">
+          <mxCell edge="1" parent="1" source="RBGYNgSVY035MO933coG-2" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="RBGYNgSVY035MO933coG-11">
+            <mxGeometry relative="1" width="240" x="0.2" y="30" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="990" y="860" as="sourcePoint" />
+              <mxPoint x="970" y="1060" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="OAuth Service" c4Type="Container" c4Technology="Python/OAuth2" c4Description="Uses a secure token JWT passed to the Taxi integration to link identities" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-14">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="110" y="1140" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RBGYNgSVY035MO933coG-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;u&gt;C4 Component Diagram (Level 3)&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="1620" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Taxi Integration Service" c4Type="ContainerScopeBoundary" c4Application="Microservice" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="RBGYNgSVY035MO933coG-16">
+          <mxCell parent="1" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="380" width="590" x="625" y="2260" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RBGYNgSVY035MO933coG-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;Who is this user?&quot;&lt;/span&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="200" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;Book a taxi for this User ID&lt;/span&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;&lt;/span&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="610" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;Charge the user&quot; &lt;/span&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="790" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;User paid;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;dispatch driver now.&quot;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-21" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&quot;Taxi 2 mins away&quot;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1070" y="1080" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Traveler" c4Type="Person" c4Description="End-user of PriorityPass planning an airport journey " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-22">
+          <mxCell parent="1" style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1">
+            <mxGeometry height="180" width="200" x="300" y="1700" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="PriorityPass Mobile App" c4Type="Container" c4Technology="JavaScript/React" c4Description="Parts of the system that run on user device - Allows users to book lounges and taxi, provides flight details and recommended departure time." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-23">
+          <mxCell parent="1" style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1">
+            <mxGeometry height="160" width="240" x="310" y="1980" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Data Store" c4Type="Container" c4Technology="Database, Amazon S3" c4Description="Stores user profiles, flight data, and booking status" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-24">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1">
+            <mxGeometry height="120" width="240" x="330" y="2600" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="API logic (server side)" c4Type="Container" c4Technology="Go/TypeScript" c4Description="These represent the logic and processing power that live in the cloud/servers. Manages booking workflow, handles flight details, arrival estimates, and business logic&#xa;API Apps/AWS function calls" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-25">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="310" y="2210" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="Interacts with mobile app" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-27">
+          <mxCell edge="1" parent="1" source="RBGYNgSVY035MO933coG-22" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.542;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="360" y="1880" as="sourcePoint" />
+              <mxPoint x="400.0799999999999" y="1982.08" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="JSON/HTTPS" c4Description="Makes API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-28">
+          <mxCell edge="1" parent="1" source="RBGYNgSVY035MO933coG-23" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.418;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" target="RBGYNgSVY035MO933coG-25">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <Array as="points">
+                <mxPoint x="410" y="2200" />
+                <mxPoint x="410" y="2200" />
+              </Array>
+              <mxPoint x="470" y="2140" as="sourcePoint" />
+              <mxPoint x="410" y="2210" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/OAuth2" c4Description="Authenticates and requests access tokens" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-30">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="310" y="2310" as="sourcePoint" />
+              <mxPoint x="180" y="2397" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Taxi API logic" c4Type="External API Container" c4Technology="Go/TypeScript" c4Description="Provides taxi availability, ETAs, and booking endpoints" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-32">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="1360" y="2370" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Payment Service" c4Type="Container" c4Technology="Python" c4Description="handles secure transaction with PCI compliance. Stores token and transaction ID" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-33">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="685" y="2060" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Reads and writes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-34">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="RBGYNgSVY035MO933coG-24">
+            <mxGeometry relative="1" width="240" x="0.6304" y="-2" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="420" y="2330" />
+              </Array>
+              <mxPoint x="420" y="2330" as="sourcePoint" />
+              <mxPoint x="422" y="2600" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="gRPC/Internal" c4Description="Requests payment" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-35">
+          <mxCell edge="1" parent="1" source="RBGYNgSVY035MO933coG-50" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.604;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" target="RBGYNgSVY035MO933coG-33">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="805" y="2300" as="sourcePoint" />
+              <mxPoint x="700" y="2360" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/OAuth2" c4Description="Makes API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-36">
+          <mxCell edge="1" parent="1" source="RBGYNgSVY035MO933coG-49" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.305;entryY=0.007;entryDx=0;entryDy=0;exitX=0.99;exitY=0.181;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="RBGYNgSVY035MO933coG-32">
+            <mxGeometry relative="1" width="240" x="-0.0925" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="1220" y="2480" as="sourcePoint" />
+              <mxPoint x="700" y="2360" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/OAuth2" c4Description="Passes authentication token" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-37">
+          <mxCell edge="1" parent="1" source="RBGYNgSVY035MO933coG-25" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;exitX=0.645;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;">
+            <mxGeometry relative="1" width="240" x="-0.1246" y="-4" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="650.0000000000002" y="2460" as="sourcePoint" />
+              <mxPoint x="660" y="2360" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="External Stripe API logic" c4Type="External API Container" c4Technology="Java SDK" c4Description="Processes credit cards securely without exposing card details" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-38">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="1270" y="2060" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS/TLS" c4Description="Completes transactions" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-39">
+          <mxCell edge="1" parent="1" source="RBGYNgSVY035MO933coG-33" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="RBGYNgSVY035MO933coG-38">
+            <mxGeometry relative="1" width="240" x="0.1304" y="20" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="940" y="2120" as="sourcePoint" />
+              <mxPoint x="920" y="2320" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="OAuth Service" c4Type="Container" c4Technology="Python/OAuth2" c4Description="Uses a secure token JWT passed to the Taxi integration to link identities" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-40">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="60" y="2400" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RBGYNgSVY035MO933coG-41" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;Who is this user?&quot;&lt;/span&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="150" y="2310" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-42" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;Book a taxi for this User ID&lt;/span&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;&lt;/span&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="470" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-43" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;Charge the user&quot; &lt;/span&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="815" y="2190" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-44" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;User paid;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;dispatch driver now.&quot;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1280" y="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-45" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;i&gt;&quot;Taxi 2 mins away&quot;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="1222.5" y="2350" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Journey Cache" c4Type="Component" c4Technology="Redis" c4Description="Reduces API calls to Taxi API and supports estimation times and predictions on journey" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-47">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="960" y="2480" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="e.g. JSON/HTTP" c4Description="e.g. Makes API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-48">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;">
+            <mxGeometry relative="1" width="240" x="-0.0067" y="2" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="1325" y="2389" />
+                <mxPoint x="1325" y="2387" />
+              </Array>
+              <mxPoint x="1360" y="2380" as="sourcePoint" />
+              <mxPoint x="1185.5" y="2387" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Taxi API Client" c4Type="Component" c4Technology="Python" c4Description="Receives and handles API response from the TAXI API" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-49">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="950" y="2290" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Integration API" c4Type="Component" c4Technology="Python" c4Description="Handles requests and posts Priority Pass responses" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-50">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="660" y="2290" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Journey Planner" c4Type="Component" c4Technology="Python" c4Description="Calculates departure timing and estimation caching information" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RBGYNgSVY035MO933coG-51">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="660" y="2460" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RBGYNgSVY035MO933coG-53" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;i&gt;&lt;span class=&quot;T286Pc&quot; data-sfc-cp=&quot;&quot; data-processed=&quot;true&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&quot;Prepare booking&quot;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="140" x="580" y="2430" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;call(taxi_update)&lt;/div&gt;&lt;div&gt;function call&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="925" y="2435" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Relationship" id="RBGYNgSVY035MO933coG-61">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="900" y="2530" as="sourcePoint" />
+              <mxPoint x="960" y="2530" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="RBGYNgSVY035MO933coG-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stores/fetches data" vertex="1">
+          <mxGeometry height="30" width="60" x="900" y="2550" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Relationship" id="RBGYNgSVY035MO933coG-63">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.417;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="RBGYNgSVY035MO933coG-51">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <mxPoint x="760" y="2410" as="sourcePoint" />
+              <mxPoint x="1010" y="2460" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="RBGYNgSVY035MO933coG-64" connectable="0" parent="RBGYNgSVY035MO933coG-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="method calls" vertex="1">
+          <mxGeometry relative="1" x="-0.3205" y="-1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Type="Relationship" id="RBGYNgSVY035MO933coG-65">
+          <mxCell edge="1" parent="1" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <Array as="points">
+                <mxPoint x="900" y="2470" />
+                <mxPoint x="1070" y="2470" />
+              </Array>
+              <mxPoint x="900" y="2480" as="sourcePoint" />
+              <mxPoint x="1070" y="2410" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="RBGYNgSVY035MO933coG-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="-220" y="1089" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="1360" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="2770" as="geometry" />
+        </mxCell>
+        <mxCell id="RBGYNgSVY035MO933coG-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="530" y="-1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
